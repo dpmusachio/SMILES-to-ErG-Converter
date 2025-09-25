@@ -1,0 +1,13 @@
+
+---
+
+# 3. environment.yml
+
+```yaml
+name: erg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - networkx
