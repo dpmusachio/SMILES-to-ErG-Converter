@@ -14,8 +14,13 @@ M. Stiefl, M. Baumann, K. Hähnke, G. Zaliani.
 
 Create a conda environment with the provided `environment.yml` file and activate it.
 
+
 conda env create -f environment.yml
+
+
 conda activate erg
+
+
 
 Dependencies:
 - Python 3.10  
